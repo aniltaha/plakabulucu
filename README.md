@@ -1,2 +1,2 @@
 # plakabulucu
-For turkish... Plaka bulucu
+For Turkey... Plaka bulucu
